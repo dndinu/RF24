@@ -22,3 +22,6 @@ utility/includes.h
 examples_linux/*
 !examples_linux/**/
 !examples_linux/*.*
+.idea
+CMakeLists.txt
+cmake-build-debug
