@@ -276,3 +276,5 @@ void loop() {
 }
 ```
 Note: if you have issue about packet lost during message sending, you can try to put a 10µf (10V) on the NRF24L01+ module, from the GND and the 3.3v
+
+See http://tmrh20.github.io/RF24 for all documentation
